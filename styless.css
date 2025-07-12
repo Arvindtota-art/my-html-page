@@ -1,0 +1,97 @@
+.head{
+  border: solid black;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+}
+h1{
+  font-size: xx-large;
+  margin-left: 20px;
+}
+a{
+  list-style: none;
+  text-decoration: none;
+  position: relative;
+  left:150px;
+  bottom: 10px;
+  padding: 50px;
+}
+input{
+  position: relative;
+  left: 900px;
+  bottom: 32px;
+}
+.sign{
+  position: relative;
+  left: 700px;
+  bottom: 100px;
+  padding: 5px;
+}
+.visit{
+  position: relative;
+  left: 1230px;
+  bottom: 140px;
+}
+h2{
+  text-align: center;
+  font-size: xx-large;
+  position: absolute;
+  bottom: 400px;
+  left: 640px;
+  font-family: 'Times New Roman', Times, serif;
+}
+img{
+  width: 194px;
+  height: 259px;
+  position: relative;
+  left: 65px;
+  padding: 50px;
+}
+span{
+  position: relative;
+  top: 250px;
+}
+.rate{
+  position: relative;
+  left: 120px;
+  bottom: 420px;
+}
+.ss{
+  position: relative;
+  left: 300px;
+  bottom: 130px;
+}
+.sss{
+  position: relative;
+  left: 300px;
+  bottom: 130px;
+}
+.ssss{
+  position: relative;
+  left: 10px;
+  top: 500px;
+}
+.sssss{
+  position: relative;
+  right: 300px;
+  bottom: 130px;
+}
+.aba{
+  position: relative;
+  right: 300px;
+  bottom: 130px;
+}
+.abc{
+   position: relative;
+  right: 300px;
+  bottom: 130px;
+}
+button{
+  outline: none;
+  border: none;
+  background-color: rgb(15, 158, 15)   ;
+  color: white;
+  border-radius: 10px;
+}
+button:active{
+  color: rgb(255, 255, 255);
+  background-color: rgb(221, 243, 25);
+}
